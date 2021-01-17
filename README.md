@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ibranraeen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ibranraeen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ibranraeen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ibranraeen" height="30" width="40" /></a>
-<a href="https://fb.com/ibranraeen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ibranraeen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ibran-raeen-bb981a173/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ibran-raeen-bb981a173/" height="30" width="40" /></a>
+<a href="https://fb.com/ibran.raeen.73/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ibran.raeen.73/" height="30" width="40" /></a>
 <a href="https://instagram.com/ibranraeen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ibranraeen" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ibranraeen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ibranraeen" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucejxtxkqcgtxttxzmx6bw2w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucejxtxkqcgtxttxzmx6bw2w" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
