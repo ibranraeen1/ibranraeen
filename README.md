@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/ibranraeen" target="blank"><img src="https://img.shields.io/twitter/follow/ibranraeen?logo=twitter&style=for-the-badge" alt="ibranraeen" /></a> </p>
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="320" />
 
 - 🔭 I’m currently working on [zaikah](https://www.zaikah.com)
 
