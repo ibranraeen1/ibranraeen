@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on [zaikah](https://www.zaikah.com)
+- 🔭 I’m currently working on [zaikah](https://zaikah.com/)
 
 - 🌱 I’m currently learning **artificial intelligence**
 
-- 👯 I’m looking to collaborate on [zaikah](https://www.zaikah.com)
+- 👯 I’m looking to collaborate on [zaikah](https://zaikah.com/)
 
-- 🤝 I’m looking for help with [zaikah](https://www.zaikah.com)
+- 🤝 I’m looking for help with [zaikah](https://zaikah.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ibranraeen](https://github.com/ibranraeen)
 
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ibranraeen3035@gmail.com**
 
-- 📄 Know about my experiences [website under development](website under development)
+- 📄 Know about my experiences [Checkout my portfolio](https://portfolio.zaikah.com/)
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I think i am crazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
