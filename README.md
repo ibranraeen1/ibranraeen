@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm ibranraeen</h1>
-<h3 align="center">Student of b.sc computer science SY</h3>
+<h3 align="center">Student of b.sc computer science TY</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibranraeen&label=Profile%20views&color=0e75b6&style=flat" alt="ibranraeen" /> </p>
 
